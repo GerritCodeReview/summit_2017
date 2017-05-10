@@ -22,6 +22,30 @@
       "revId": "596e82a687b970e40ee0d49857aa9337853934e0",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b5475014_cabb1ed2",
+        "filename": "sponsors.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-05-10T22:22:11Z",
+      "side": 1,
+      "message": "OK, thanks. I would like ideally to send the announcement on the mailing list this Friday :-)",
+      "parentUuid": "808f4a6b_8d10ea9e",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 48
+      },
+      "revId": "596e82a687b970e40ee0d49857aa9337853934e0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
