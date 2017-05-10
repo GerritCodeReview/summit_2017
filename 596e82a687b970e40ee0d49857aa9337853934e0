@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "808f4a6b_8d10ea9e",
+        "filename": "sponsors.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1014257
+      },
+      "writtenOn": "2017-05-10T16:39:12Z",
+      "side": 1,
+      "message": "I think CollabNet would like adjust this section a bit. Will come back to that by tomorrow.",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 48
+      },
+      "revId": "596e82a687b970e40ee0d49857aa9337853934e0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
