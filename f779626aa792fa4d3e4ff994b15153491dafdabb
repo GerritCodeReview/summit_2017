@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7d17d7d4_dc4b9476",
+        "filename": "images/.DS_Store",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1029953
+      },
+      "writtenOn": "2017-05-12T21:18:57Z",
+      "side": 1,
+      "message": "This file should be removed.",
+      "revId": "f779626aa792fa4d3e4ff994b15153491dafdabb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
