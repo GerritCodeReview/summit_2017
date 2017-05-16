@@ -22,6 +22,30 @@
       "revId": "70b75d96cab83e1f70b4787814e81416aaff009d",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "691ece23_a9ab7c16",
+        "filename": "project.config",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-05-16T08:27:28Z",
+      "side": 1,
+      "message": "Not sure if that will break anything.  I\u0027d rather leave it for a followup.",
+      "parentUuid": "92e6e3b2_85032f78",
+      "range": {
+        "startLine": 11,
+        "startChar": 7,
+        "endLine": 11,
+        "endChar": 18
+      },
+      "revId": "70b75d96cab83e1f70b4787814e81416aaff009d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
