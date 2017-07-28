@@ -41,3 +41,13 @@ People will be able to post comments, ask questions and vote for it.
 
 The top 12 rated proposals will become part of the Gerrit User Summit 2017
 agenda.
+
+## Will my talk be recorded and published?
+
+We can record the full session and publish it for allowing other people
+to watch it online later on, even if they have not attended the Summit.
+However, if you do not wish to be recorded, just let us know and include
+a simple note in your talk proposal.
+
+You will still be free to publish your slides anywhere on the web
+and we will just point to them.
