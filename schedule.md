@@ -71,3 +71,8 @@ it in his daily software development workflow.
 | 14:45 | **Gerrit Code Review Talk #12**                  |
 | 15:30 | Break, Expo & Networking                         |
 | 16:00 | Conference wrap-up and Closing Keynote           |
+
+### Not-yet-scheduled sessions
+
+[How to extend Gerrit using Scripting Plugins](sessions/gerrit-scripting-plugins.md) _Luca Milanesio / GerritForge_
+[Mining Gerrit Data to Study Contentious Reviews and Community Evolution](sessions/mining_gerrit.md) _Shane McIntosh, McGill University
