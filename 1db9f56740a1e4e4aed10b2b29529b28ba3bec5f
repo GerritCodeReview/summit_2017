@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "72293113_d5a408c7",
+        "filename": "sessions/new-in-2.15.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-08-25T00:19:06Z",
+      "side": 1,
+      "message": "Dave, will you take this since you\u0027re leading the 2.15 release? :)",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 4
+      },
+      "revId": "1db9f56740a1e4e4aed10b2b29529b28ba3bec5f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
