@@ -34,7 +34,7 @@ __Open to everyone__
 
 There are over 150 seats available on a first-come-first-served basis,
 open to anyone who is using Gerrit Code Review or interested in adopting
-it in his daily software development workflow.
+it in their daily software development workflow.
 
 [Register Now to the Gerrit User Summit 2017](https://www.eventbrite.co.uk/e/gerrit-user-summit-2017-tickets-34486175078)
 ***
