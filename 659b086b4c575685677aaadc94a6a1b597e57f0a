@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ccd2f485_f5cf2e1d",
+        "filename": "sessions/maintainers-qa.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2017-08-25T06:15:07Z",
+      "side": 1,
+      "message": "You can add me to this list :)",
+      "revId": "659b086b4c575685677aaadc94a6a1b597e57f0a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
