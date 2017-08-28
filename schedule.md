@@ -76,3 +76,4 @@ it in his daily software development workflow.
 
 * [How to extend Gerrit using Scripting Plugins](sessions/gerrit-scripting-plugins.md) _Luca Milanesio / GerritForge_
 * [Mining Gerrit Data to Study Contentious Reviews and Community Evolution](sessions/mining_gerrit.md) _Shane McIntosh, McGill University_
+* [Beyond Gerrit](sessions/beyond-gerrit.md) _Jacek Centkowski, CollabNet_
