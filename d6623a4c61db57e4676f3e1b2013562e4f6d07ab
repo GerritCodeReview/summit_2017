@@ -22,6 +22,121 @@
       "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e7bb2acc_ef2085c8",
+        "filename": "sessions/beyond-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-08-31T23:31:31Z",
+      "side": 1,
+      "message": ",",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 25
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fa8be05d_53dfa442",
+        "filename": "sessions/beyond-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-08-31T23:31:31Z",
+      "side": 1,
+      "message": "an",
+      "range": {
+        "startLine": 3,
+        "startChar": 42,
+        "endLine": 3,
+        "endChar": 43
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "62d1c742_8e012a19",
+        "filename": "sessions/beyond-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-08-31T23:31:31Z",
+      "side": 1,
+      "message": "s/instance/immediate",
+      "range": {
+        "startLine": 4,
+        "startChar": 108,
+        "endLine": 4,
+        "endChar": 115
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "11c09d34_9d368e38",
+        "filename": "sessions/beyond-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-08-31T23:31:31Z",
+      "side": 1,
+      "message": "a",
+      "range": {
+        "startLine": 4,
+        "startChar": 68,
+        "endLine": 4,
+        "endChar": 69
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a8ad98c0_43c45659",
+        "filename": "sessions/beyond-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-08-31T23:31:31Z",
+      "side": 1,
+      "message": ",",
+      "range": {
+        "startLine": 4,
+        "startChar": 12,
+        "endLine": 4,
+        "endChar": 13
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
