@@ -25,6 +25,29 @@
     },
     {
       "key": {
+        "uuid": "3d2eb2e2_d5ce71c2",
+        "filename": "schedule.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2017-08-31T23:43:25Z",
+      "side": 1,
+      "message": "Would be best to keep this out of the change, otherwise I\u0027d be running through continuous conflicts :-(",
+      "range": {
+        "startLine": 79,
+        "startChar": 0,
+        "endLine": 79,
+        "endChar": 74
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "e7bb2acc_ef2085c8",
         "filename": "sessions/beyond-gerrit.md",
         "patchSetId": 1
