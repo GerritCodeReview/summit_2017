@@ -22,6 +22,30 @@
       "revId": "1db9f56740a1e4e4aed10b2b29529b28ba3bec5f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f4c501e3_496fe5fb",
+        "filename": "sessions/new-in-2.15.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1010008
+      },
+      "writtenOn": "2017-08-31T16:44:13Z",
+      "side": 1,
+      "message": "Sure, why not!",
+      "parentUuid": "72293113_d5a408c7",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 4
+      },
+      "revId": "1db9f56740a1e4e4aed10b2b29529b28ba3bec5f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
