@@ -8,5 +8,6 @@ you've always been wanting to ask.
 * *[Dave Borowitz, Google](../speakers.md#dborowitz)*
 * *[David Pursehouse, CollabNet](../speakers.md#dpursehouse)*
 * *[Edwin Kempin, Google](../speakers.md#ekempin)*
+* *[Patrick Hiesel, Google](../speakers.md#hiesel)*
 * *[Wyatt Allen, Google](../speakers.md#wyattallen)*
 * *other maintainers TBC*
