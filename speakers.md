@@ -67,6 +67,10 @@ the REBELs is available [online](http://rebels.ece.mcgill.ca/).
 
 [LinkedIn](https://www.linkedin.com/in/edwin-kempin-215234b4/)
 
+### Patrick Hiesel - Google {#hiesel}
+
+[LinkedIn](https://www.linkedin.com/in/patrickhiesel/)
+
 ### Wyatt Allen - Google {#wyattallen}
 
 [LinkedIn](https://www.linkedin.com/in/wyatt-allen-02547922/)
