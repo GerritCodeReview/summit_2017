@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ae2ad2da_3a36b97f",
+        "filename": "sessions/gerrit-graphs-dashboards.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-09-01T01:44:43Z",
+      "side": 1,
+      "message": "extract",
+      "range": {
+        "startLine": 9,
+        "startChar": 16,
+        "endLine": 9,
+        "endChar": 21
+      },
+      "revId": "f9bc7f1bc89e8d4db8dc83a436d1ce00eeffddea",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
