@@ -19,9 +19,4 @@ The scripting languages we will use are:
 - Groovy
 - Scala
 
-*Luca Milanesio / GerritForge*
-
-Gerrit Contributor for over five years, my first commit
-was cf5cd23d (the PluginLoader), maintainer of
-GerritHub.io, the Open Service for Gerrit Code Review
-on top of GitHub repositories.
+*[Luca Milanesio / GerritForge](../speakers.md#lmilanesio)*

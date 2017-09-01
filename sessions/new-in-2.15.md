@@ -2,4 +2,4 @@
 
 Preview of the new features coming in the next release of Gerrit.
 
-*Dave Borowitz, Google*
+*[Dave Borowitz, Google](../speakers.md#dborowitz)*

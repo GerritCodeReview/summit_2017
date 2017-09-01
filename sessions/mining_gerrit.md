@@ -11,14 +11,4 @@ first study aims to understand the reviews where reviewers disagree about a
 patch. The second study follows how the concerns that reviewers raise evolve as
 the OpenStack community ages and individual reviews accrue experience.
 
-*Shane McIntosh, McGill University*
-
-Shane McIntosh is an assistant professor in the Department of Electrical and
-Computer Engineering at McGill University, where he leads the Software
-Repository Excavation and Build Engineering Labs (Software REBELs). He received
-his Bachelor's degree in Applied Computing from the University of Guelph and
-his MSc and PhD in Computer Science from Queen's University, for which he was
-awarded the Governor General of Canada's Academic Gold Medal. In his research,
-Shane uses empirical software engineering techniques to study software build
-systems, release engineering, and software quality. More info about Shane and
-the REBELs is available [online](http://rebels.ece.mcgill.ca/).
+*[Shane McIntosh, McGill University](../speakers.md#smcintosh)*

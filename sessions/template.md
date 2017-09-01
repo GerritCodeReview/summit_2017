@@ -11,7 +11,4 @@ magna. Maecenas in posuere tellus. Morbi ut neque vel ante
 tristique elementum. Phasellus fringilla, turpis nec posuere
 feugiat, risus mi lobortis dolor, at consectetur orci dolor ut nunc.
 
-*First Last Name, Affiliation / Company*
-
-Short bio about yourself (max 100 words).
-
+*[First Last Name, Affiliation / Company](../speakers.md#anchor)*
