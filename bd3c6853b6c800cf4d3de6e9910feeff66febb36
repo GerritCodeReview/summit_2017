@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "646cedc8_90f6cf8a",
+        "filename": "sessions/jenkins-gerrit-plugin.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-09-01T01:45:31Z",
+      "side": 1,
+      "message": "is this using the webhooks plugin?",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 8,
+        "endChar": 28
+      },
+      "revId": "bd3c6853b6c800cf4d3de6e9910feeff66febb36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
