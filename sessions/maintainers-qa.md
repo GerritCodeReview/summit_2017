@@ -8,5 +8,6 @@ you've always been wanting to ask.
 *Dave Borowitz, Google*
 *David Pursehouse, CollabNet*
 *Edwin Kempin, Google*
+*Patrick Hiesel, Google*
 *Wyatt Allen, Google*
 *other maintainers TBC*
