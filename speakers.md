@@ -15,6 +15,12 @@ David is a contributor to Gerrit since 2011 and a maintainer/committer
 since 2012. He is based in Japan and works remotely as part of
 CollabNet's Teamforge Git Engineering team in Berlin.
 
+### Eryk Szymanski - CollabNet {#eszymanski}
+
+[LinkedIn](https://www.linkedin.com/in/eryk-szymanski-94b92ba/)
+
+Eryk is leading CollabNet's TeamForge Git Engineering team in Berlin.
+
 ### Jacek Centkowski - CollabNet {#jcentkowski}
 
 [LinkedIn](https://www.linkedin.com/in/jcentkowski/)
