@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e3f8b3e9_085e2d0e",
+        "filename": "speakers.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-09-01T01:41:44Z",
+      "side": 1,
+      "message": "Add named anchors to make it easier to link from other pages?\n\nI.e. here:\n\n ### Dave Borowitz - Google {#dborowitz}\n\nand then it\u0027s possible to link to:\n\n speakers.md#dborowitz",
+      "revId": "b80a69b292ff52c1066856e1820d2915d93ebfbd",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
