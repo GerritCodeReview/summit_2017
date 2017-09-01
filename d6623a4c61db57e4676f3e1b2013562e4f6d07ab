@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "444c3e87_ae5c6a33",
+        "filename": "sessions/beyond-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-09-01T00:36:38Z",
+      "side": 1,
+      "message": "comma is not required after \u0027however\u0027 in this case",
+      "parentUuid": "e7bb2acc_ef2085c8",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 25
+      },
+      "revId": "d6623a4c61db57e4676f3e1b2013562e4f6d07ab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "62d1c742_8e012a19",
         "filename": "sessions/beyond-gerrit.md",
         "patchSetId": 1
