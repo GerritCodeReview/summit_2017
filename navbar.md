@@ -2,6 +2,7 @@
 
 * [Home](/index.md)
 * [Schedule](/schedule.md)
+* [Speakers](/speakers.md)
 * [Overview](/overview.md)
 * [Propose a Talk](/cfp.md)
 * [Sponsors](/sponsors.md)
