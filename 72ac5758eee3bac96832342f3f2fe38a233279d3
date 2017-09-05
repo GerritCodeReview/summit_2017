@@ -22,6 +22,30 @@
       "revId": "72ac5758eee3bac96832342f3f2fe38a233279d3",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a0c9ef87_77d66ae3",
+        "filename": "sessions/diffy-with-enterprise-grade.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2017-09-05T07:03:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "086588d4_5085e001",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 68
+      },
+      "revId": "72ac5758eee3bac96832342f3f2fe38a233279d3",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
