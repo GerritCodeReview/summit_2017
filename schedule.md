@@ -41,21 +41,21 @@ it in their daily software development workflow.
 
 ### Monday
 
-| Time  | Session                                                         |
-|-------|-----------------------------------------------------------------|
-|  8:00 | Registration Opens, Breakfast, Expo & Networking                |
-|  9:00 | Welcome introduction                                            |
-|  9:15 | [What's new in Gerrit 2.14.x](sessions/new-in-2.14.md)          |
-| 10:00 | Gerrit at Google: Multi-master, multi-tenant                    |
-| 10:45 | Break, Expo & Networking                                        |
-| 11:30 | PolyGerrit UX: Findings from research/experience on the new GUI |
-| 12:15 | Lunch, Expo & Networking                                        |
-| 14:00 | [Gerrit CI: keep logs forever](sessions/gerrit-ci-forever.md)   |
-| 14:45 | [Beyond Gerrit](sessions/beyond-gerrit.md)                      |
-| 15:30 | Break, Expo & Networking                                        |
-| 16:00 | [What's new in Gerrit 2.15](sessions/new-in-2.15.md)            |
-| 16:45 | [Q&A with the Gerrit Maintainers](sessions/maintainers-qa.md)   |
-| 17:30 | Drinks, Expo & Networking                                       |
+| Time  | Session                                                                      |
+|-------|------------------------------------------------------------------------------|
+|  8:00 | Registration Opens, Breakfast, Expo & Networking                             |
+|  9:00 | Welcome introduction                                                         |
+|  9:15 | [What's new in Gerrit 2.14.x](sessions/new-in-2.14.md)                       |
+| 10:00 | [Gerrit at Google: Multi-master, multi-tenant](sessions/gerrit-at-google.md) |
+| 10:45 | Break, Expo & Networking                                                     |
+| 11:30 | PolyGerrit UX: Findings from research/experience on the new GUI              |
+| 12:15 | Lunch, Expo & Networking                                                     |
+| 14:00 | [Gerrit CI: keep logs forever](sessions/gerrit-ci-forever.md)                |
+| 14:45 | [Beyond Gerrit](sessions/beyond-gerrit.md)                                   |
+| 15:30 | Break, Expo & Networking                                                     |
+| 16:00 | [What's new in Gerrit 2.15](sessions/new-in-2.15.md)                         |
+| 16:45 | [Q&A with the Gerrit Maintainers](sessions/maintainers-qa.md)                |
+| 17:30 | Drinks, Expo & Networking                                                    |
 
 ### Tuesday
 
