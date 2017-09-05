@@ -68,7 +68,8 @@ it in their daily software development workflow.
 | 11:30 | Multi-master outside Google: rollout experience at Qualcomm                                         |
 | 12:15 | Lunch, Expo & Networking                                                                            |
 | 14:00 | [Extend Gerrit with Scripting](sessions/gerrit-scripting-plugins.md)                                |
-| 14:45 | [A brand-new Gerrit integration for Jenkins](sessions/jenkins-gerrit-plugin.md)                     |
+| 14:20 | [A brand-new Gerrit integration for Jenkins](sessions/jenkins-gerrit-plugin.md)                     |
+| 14:45 | [Diffy with enterprise grade](sessions/diffy-with-enterprise-grade.md)                              |
 | 15:30 | Break, Expo & Networking                                                                            |
 | 16:00 | Conference wrap-up and Closing Keynote                                                              |
 
