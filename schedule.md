@@ -51,6 +51,7 @@ it in their daily software development workflow.
 | 11:30 | PolyGerrit UX: Findings from research/experience on the new GUI              |
 | 12:15 | Lunch, Expo & Networking                                                     |
 | 14:00 | [Gerrit CI: keep logs forever](sessions/gerrit-ci-forever.md)                |
+| 14:20 | [improvements to Zoekt code search](sessions/zoekt-improvements.md)          |
 | 14:45 | [Beyond Gerrit](sessions/beyond-gerrit.md)                                   |
 | 15:30 | Break, Expo & Networking                                                     |
 | 16:00 | [What's new in Gerrit 2.15](sessions/new-in-2.15.md)                         |
@@ -72,4 +73,3 @@ it in their daily software development workflow.
 | 14:45 | [Diffy with enterprise grade](sessions/diffy-with-enterprise-grade.md)                              |
 | 15:30 | Break, Expo & Networking                                                                            |
 | 16:00 | Conference wrap-up and Closing Keynote                                                              |
-
