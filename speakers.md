@@ -45,6 +45,13 @@ on top of GitHub repositories.
 Martin is a Software Engineer at Qualcomm.
 __TBC__
 
+### Patrick Hiesel - Google {#hiesel}
+
+[LinkedIn](https://www.linkedin.com/in/patrickhiesel/)
+
+Patrick Hiesel is a maintainer of Gerrit and Software Engineer at Google
+in Munich.
+
 ### Shane McIntosh - McGill University {#smcintosh}
 
 [LinkedIn](https://www.linkedin.com/in/shane-mcintosh-94a6971b/)
@@ -72,10 +79,6 @@ the REBELs is available [online](http://rebels.ece.mcgill.ca/).
 ### Edwin Kempin - Google {#ekempin}
 
 [LinkedIn](https://www.linkedin.com/in/edwin-kempin-215234b4/)
-
-### Patrick Hiesel - Google {#hiesel}
-
-[LinkedIn](https://www.linkedin.com/in/patrickhiesel/)
 
 ### Wyatt Allen - Google {#wyattallen}
 
