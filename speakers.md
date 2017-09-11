@@ -21,6 +21,13 @@ CollabNet's Teamforge Git Engineering team in Berlin.
 
 Eryk is leading CollabNet's TeamForge Git Engineering team in Berlin.
 
+### Han-Wen Nienhuys - Google {#hanwen}
+
+[LinkedIn](https://de.linkedin.com/in/han-wen-nienhuys-794735/)
+
+Han-Wen has been managing Google's Gerrit team in Munich, Germany since 2015.
+
+
 ### Jacek Centkowski - CollabNet {#jcentkowski}
 
 [LinkedIn](https://www.linkedin.com/in/jcentkowski/)
