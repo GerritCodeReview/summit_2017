@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fedaa2c0_c58f35d4",
+        "filename": "speakers.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1027267
+      },
+      "writtenOn": "2017-09-14T22:30:47Z",
+      "side": 1,
+      "message": "Arnab, can you provide me some copy for your bio here?",
+      "revId": "7ad3682e7c24a5b28b08295655818df1c73b8be8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f303ab74_6adb17e9",
+        "filename": "speakers.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1027267
+      },
+      "writtenOn": "2017-09-14T22:30:47Z",
+      "side": 1,
+      "message": "Dustin, can you provide me some copy for your bio here?",
+      "revId": "7ad3682e7c24a5b28b08295655818df1c73b8be8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
