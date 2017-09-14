@@ -1,5 +1,11 @@
 # Gerrit User Summit 2017 - Speakers
 
+### Arnab Banerjee - Google {#arnabb}
+
+[LinkedIn](https://www.linkedin.com/in/arnabunfolded)
+
+Arnab Banerjee is a User Experience designer for Polygerrit and is based in Seattle.
+
 ### Dave Borowitz - Google {#dborowitz}
 
 [LinkedIn](https://www.linkedin.com/in/dborowitz/)
@@ -14,6 +20,12 @@ project maintainer.
 David is a contributor to Gerrit since 2011 and a maintainer/committer
 since 2012. He is based in Japan and works remotely as part of
 CollabNet's Teamforge Git Engineering team in Berlin.
+
+### Dustin Smith - Google {#smithdc}
+
+[LinkedIn](https://www.linkedin.com/in/dustin-smith-b0525458)
+
+...
 
 ### Eryk Szymanski - CollabNet {#eszymanski}
 
@@ -34,6 +46,12 @@ Han-Wen has been managing Google's Gerrit team in Munich, Germany since 2015.
 
 Jacek is a contributor to Gerrit since 2013 but mostly works on
 TeamForge Git/Gerrit Integration for CollabNet's team in Berlin.
+
+### Logan Hanks - Google {#logan}
+
+[LinkedIn](https://www.linkedin.com/in/loganhanks)
+
+Logan manages Google's PolyGerrit team in San Francisco.
 
 ### Luca Milanesio - GerritForge {#lmilanesio}
 
