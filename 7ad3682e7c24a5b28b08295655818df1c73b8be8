@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "8f673040_4b3da495",
+        "filename": "speakers.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1035927
+      },
+      "writtenOn": "2017-09-19T17:28:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fedaa2c0_c58f35d4",
+      "revId": "7ad3682e7c24a5b28b08295655818df1c73b8be8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f303ab74_6adb17e9",
         "filename": "speakers.md",
         "patchSetId": 1
