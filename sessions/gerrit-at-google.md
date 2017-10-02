@@ -20,5 +20,8 @@ highlights pitfalls we encoutered.
 * Load-balancing decisions and their impact on latency
 * What garbage collection means for load-balancing and vice-versa
 
+## Slides
+
+The slides for this talk can be found [here](https://docs.google.com/presentation/d/1pZkXbrhcUZxO-1TEUJgBvOiJJiYWwtHOw8fegsjvCnc).
 
 *[Patrick Hiesel, Google](../speakers.md#hiesel)*
