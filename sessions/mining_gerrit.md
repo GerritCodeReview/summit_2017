@@ -11,4 +11,6 @@ first study aims to understand the reviews where reviewers disagree about a
 patch. The second study follows how the concerns that reviewers raise evolve as
 the OpenStack community ages and individual reviews accrue experience.
 
+[Slides](https://speakerdeck.com/shanemcintosh/mining-gerrit-reviews-for-contentious-reviews-and-community-evolution)
+
 *[Shane McIntosh, McGill University](../speakers.md#smcintosh)*
