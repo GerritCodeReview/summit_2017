@@ -17,3 +17,5 @@ research on Gerrit here at the Summit.
 * [Arnab Banerjee, Google](../speakers.md#arnabb)
 * [Dustin Smith, Google](../speakers.md#smithdc)
 * [Logan Hanks, Google](../speakers.md#logan)
+
+[Slides](https://docs.google.com/presentation/d/17q-ygGioZi_5DITLyELa8oaOr22e15AHy8cq6XTZ0nY/edit?usp=sharing)
