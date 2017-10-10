@@ -24,4 +24,8 @@ highlights pitfalls we encoutered.
 
 The slides for this talk can be found [here](https://docs.google.com/presentation/d/1pZkXbrhcUZxO-1TEUJgBvOiJJiYWwtHOw8fegsjvCnc).
 
+## Transcript and Recording
+
+The recording and transcript of this talk can be found [here](https://gitenterprise.me/2017/10/10/gerrit-user-summit-gerrit-at-google/)
+
 *[Patrick Hiesel, Google](../speakers.md#hiesel)*
