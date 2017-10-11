@@ -5,10 +5,6 @@ the whole community and ecosystem, in one event, providing attendees
 with the opportunity to learn, explore, network face-to-face and help
 shape the future of Gerrit development and solutions.
 
-*** promo
-[Register Now to the Gerrit User Summit 2017](https://www.eventbrite.co.uk/e/gerrit-user-summit-2017-tickets-34486175078)
-***
-
 # Gerrit User Summit 2017 - Sept 30th to Oct 3rd, London (UK)
 
 | Sep 30th - Oct 1st | Oct 2nd - 3rd     |

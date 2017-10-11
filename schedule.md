@@ -19,25 +19,6 @@ roundtable.
 ## The User Summit, October 2nd (Mon) to 3rd (Tue)
 
 Introduction, intermediate and advanced sessions on Gerrit Code Review.
-The **Call For Papers is officially open**, [submit your talk proposal](cfp.md)
-directly through [Gerrit Code Review](https://gerrit-review.googlesource.com/#/admin/projects/summit/2017)
-
-The voting and final **selection of the agenda is totally driven by Community**,
-the review score defines the chart of best rated talks.
-
-> **Follow the instructions** described in the [sessions proposal section](cfp.md)
-> and be active part of the Summit by sharing your experience and provide
-> your feedback on how to improve Gerrit Code Review.
-
-*** promo
-__Open to everyone__
-
-There are over 150 seats available on a first-come-first-served basis,
-open to anyone who is using Gerrit Code Review or interested in adopting
-it in their daily software development workflow.
-
-[Register Now to the Gerrit User Summit 2017](https://www.eventbrite.co.uk/e/gerrit-user-summit-2017-tickets-34486175078)
-***
 
 ### Monday
 
