@@ -8,3 +8,5 @@ quality gates, pull request and code browser which have been
 implemented on top of vanilla Gerrit.
 
 *[Eryk Szymanski, CollabNet](../speakers.md#eszymanski)*
+
+[Slides](https://www.slideshare.net/eryksz/diffy-with-enterprise-grade)
