@@ -8,3 +8,5 @@ under a single TeamForge umbrella and what are the immediate
 benefits of it.
 
 *[Jacek Centkowski, CollabNet](../speakers.md#jcentkowski)*
+
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2017/20171002-beyondGerrit.pdf)
