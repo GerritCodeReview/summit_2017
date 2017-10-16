@@ -5,3 +5,4 @@ of Gerrit.
 
 *[David Pursehouse, CollabNet](../speakers.md#dpursehouse)*
 
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2017/new-in-2.14.pdf)
