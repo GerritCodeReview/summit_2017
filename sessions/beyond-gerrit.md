@@ -1,12 +1,12 @@
 # Beyond Gerrit
 
 Gerrit is great, however it is also quite an important part
-of a bigger ALM process.
+of a bigger DevOps process.
 
 In this talk I will describe how multiple tools can be unified
-under a single TeamForge umbrella and what are the immediate
-benefits of it.
+under a TeamForge or better DLM umbrella and what are the
+immediate benefits of it.
 
 *[Jacek Centkowski, CollabNet](../speakers.md#jcentkowski)*
 
-[Slides](https://storage.googleapis.com/gerrit-talks/summit/2017/20171002-beyondGerrit.pdf)
+[Slides](https://www.slideshare.net/JacekCentkowski/20171002-beyond-gerrit)
