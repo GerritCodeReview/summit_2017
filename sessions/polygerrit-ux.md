@@ -19,3 +19,5 @@ research on Gerrit here at the Summit.
 * [Logan Hanks, Google](../speakers.md#logan)
 
 [Slides](https://docs.google.com/presentation/d/17q-ygGioZi_5DITLyELa8oaOr22e15AHy8cq6XTZ0nY/edit?usp=sharing)
+
+[Recording and transcript](https://gitenterprise.me/2017/10/19/gerrit-user-summit-polygerrit-ux/)
