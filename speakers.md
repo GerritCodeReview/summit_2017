@@ -70,7 +70,6 @@ on top of GitHub repositories.
 [LinkedIn](https://www.linkedin.com/in/martin-fick-8637611/)
 
 Martin is a Software Engineer at Qualcomm.
-__TBC__
 
 ### Patrick Hiesel - Google {#hiesel}
 
