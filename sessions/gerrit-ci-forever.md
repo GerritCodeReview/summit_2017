@@ -12,3 +12,7 @@ enabling a much richer data analysis and materialize back
 the logs with the same URL referenced in the Gerrit changes.
 
 *[Luca Milanesio / Gerrit CI Build Engineer / GerritForge](../speakers.md#lmilanesio)*
+
+Slides are available on [SlideShare](https://www.slideshare.net/lucamilanesio/how-to-keep-jenkins-logs-forever-without-performance-issues)
+
+YouTube and transcript are available on [GitEnterprise.me](https://gitenterprise.me/2017/10/24/gerrit-user-summit-jenkins-forever/)
